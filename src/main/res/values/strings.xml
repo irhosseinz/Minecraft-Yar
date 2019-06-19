@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ماینکرفت یار</string>
+
+    <string name="recipes_guide">راهنمای ساخت</string>
+    <string name="videos">ویدیو ها</string>
+    <string name="brewing">ساخت معجون</string>
+    <string name="exit">خروج</string>
+    <string name="rating">امتیاز دهی</string>
+    <string name="item_toast" formatted="false">&lt;u&gt;%s&lt;/u&gt;&lt;br&gt;</string>
+
+    <string name="items_produstion">روش های ساخت</string>
+    <string name="items_uses">استفاده ها</string>
+    <string name="items_no_recipe">طرز ساختی برای این آیتم وجود ندارد</string>
+
+    <string name="items_no_memory">فضای کافی برای باز کردن این صفحه وجود ندارد. لطفا صفحات اضافی برنامه را بسته و مجددا تلاش کنید</string>
+
+    <string name="video_text" formatted="false">&lt;font color="#d3d7cf"&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt;        &lt;small&gt;طول ویدیو: %s&lt;/small&gt;&lt;br&gt;%s</string>
+
+    <string name="msg_noNet">دسترسی به اینترنت وجود ندارد</string>
+    <string name="msg_getVideoError">یک خطا در دریافت ویدیو رخ داد</string>
+    <string name="msg_loading">در حال آماده سازی ویدیو جهت دانلود\nلطفا صبر کنید..</string>
+
+    <string name="msg_noCFB">برنامه کافه بازار در گوشی شما نصب نیست</string>
+    <string name="msg_exit">برای خروج از برنامه کلید را دوباره فشار دهید</string>
+
+    <string name="rate_desc">لطفا با ثبت نظر &lt;b>&lt;font color="#ff0000">&lt;/font>&lt;/b> از این برنامه رایگان پشتیبانی کنید</string>
+    <string name="update">یک نسخه جدید از برنامه در دسترس است.\nبرای رفع مشکلات برنامه و بهره مندی از آخرین امکانات پیشنهاد می شود برنامه را بروز کنید</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main"
+    android:background="@drawable/back1"
+    tools:context="ir.boozar.databasecreator.ActivityRecipes">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/mainMenu"
+                android:orientation="vertical"
+                android:stretchColumns="0"
+                >
+            </TableLayout>
+        </ScrollView>
+</RelativeLayout>

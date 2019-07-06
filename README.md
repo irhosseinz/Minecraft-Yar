@@ -6,7 +6,7 @@ All data is gathered from [Minecraft Wiki](https://minecraft.gamepedia.com/Minec
 Project is developed for Iran Local Android Market so its Language is Persian, but database contains English data too. you just need to translate application!
 
 ## Screen-shots
-![1](https://raw.githubusercontent.com/irhosseinz/Minecraft-Yar/master/screenshots/device-2014-10-31-150345.png)![1](https://raw.githubusercontent.com/irhosseinz/Minecraft-Yar/master/screenshots/device-2014-11-16-170713.png)![1](https://raw.githubusercontent.com/irhosseinz/Minecraft-Yar/master/screenshots/device-2014-11-16-170750.png)![1](https://raw.githubusercontent.com/irhosseinz/Minecraft-Yar/master/screenshots/device-2014-11-16-170850.png)
+![1](https://raw.githubusercontent.com/irhosseinz/Minecraft-Yar/master/screenshots/device-2014-10-31-150345.jpg)![1](https://raw.githubusercontent.com/irhosseinz/Minecraft-Yar/master/screenshots/device-2014-11-16-170713.jpg)![1](https://raw.githubusercontent.com/irhosseinz/Minecraft-Yar/master/screenshots/device-2014-11-16-170750.jpg)![1](https://raw.githubusercontent.com/irhosseinz/Minecraft-Yar/master/screenshots/device-2014-11-16-170850.jpg)
 
 ## License
 The Project is licensed under the [MIT license](https://opensource.org/licenses/MIT). Enjoy!
